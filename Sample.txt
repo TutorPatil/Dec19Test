@@ -1,2 +1,3 @@
-Sample Text
-Edidting sample file directly from git hub
+Sample Text!!
+
+Adding a new line from VSCode
